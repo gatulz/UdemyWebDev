@@ -1,0 +1,36 @@
+
+body{
+  background-color : #b2deec;
+}
+img {
+  max-width : 100%;
+}
+table{
+  max-width:100%
+}
+hr{
+  border-style : dotted none none none;
+  border-color : gray;
+  border-top-width: 4px;
+  width : 10%;
+}
+
+h1{
+  color : #070d59;
+  font-family: sans-serif;
+}
+
+h2{
+  color : #070d59;
+}
+
+.circular{
+  border-radius : 100%;
+}
+.achievement{ /* an use multiple times*/
+  background-color: yellow;
+}
+
+#heading_exp{ /* id for 1 elemen only */
+  background-color: red;
+}
